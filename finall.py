@@ -60,7 +60,7 @@ if detected == 1:
     from time import sleep 
 
     usr="abdul5152@ymail.com"
-    pwd="m8963859920"
+    pwd="xyz"
 
     #opening Firefox
     driver = webdriver.Firefox() 
