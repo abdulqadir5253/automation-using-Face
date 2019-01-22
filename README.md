@@ -14,6 +14,6 @@ Happy ML!!
 
 Extras:
 
-The other two files facebook and github are the other two file, which can be used to seprately in automation
+The other two files facebook and github , can be used seprately in automation.
 
 Thank you.
